@@ -1,0 +1,38 @@
+.app-container {
+  margin: 20px;
+}
+@media screen and (min-width: 768px) {
+  .app-container {
+    margin: 40px;
+  }
+}
+.select-img {
+  width: 250px;
+}
+@media screen and (min-width: 768px) {
+  .select-img {
+    width: 90%;
+  }
+}
+
+.main-heading {
+  font-size: 26px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #1e293b;
+}
+
+.description {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #64748b;
+}
+
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0px;
+  padding: 0px;
+}

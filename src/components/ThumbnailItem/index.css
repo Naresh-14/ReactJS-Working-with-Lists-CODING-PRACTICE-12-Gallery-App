@@ -1,0 +1,9 @@
+.thumbnail-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  opacity: 0.5;
+}
+.active-thumbnail-btn {
+  opacity: 1;
+}
